@@ -9,7 +9,7 @@ layout: page
 PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
 [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) \
 [National Key Laboratory for Novel Software Technology](http://keysoftlab.nju.edu.cn/) \
-[Nanjing University](https://www.nju.edu.cn/), Nanjing 210023, China \
+[Nanjing University](https://www.nju.edu.cn/), Nanjing 210023, China 
 
 **Supervisor:** Associate Professor [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm) 
 
