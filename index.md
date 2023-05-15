@@ -26,7 +26,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 # About me 
 
-<img align="left" src="./jintao.jpg" width = "28%"/>
+<img align="left" src="./jintao.jpg" width = "30%"/>
 <font face="kai" size=7><b>郭金涛</b></font>   <font size=6><b>Jintao Guo</b></font> 
 <img align="right" src="./RL.jpg" width = "25%"/>
 
