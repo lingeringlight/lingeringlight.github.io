@@ -3,9 +3,9 @@ layout: page
 ---
 
 
-<img align="right" src="./jintao.jpg" width = "36%"/>
-
 <font face="kai" size=7><b>郭金涛</b></font>   <font size=6><b>Jintao Guo</b></font> 
+
+<img align="right" src="./jintao.jpg" width = "36%"/>
 
 PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
 [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) \
