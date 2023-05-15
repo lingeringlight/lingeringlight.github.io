@@ -9,8 +9,7 @@ layout: page
 PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
 [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) \
 [National Key Laboratory for Novel Software Technology](http://keysoftlab.nju.edu.cn/) \
-[Nanjing University](https://www.nju.edu.cn/), Nanjing 210023, China 
-
+[Nanjing University](https://www.nju.edu.cn/), Nanjing 210023, China \
 **Supervisor:** Associate Professor [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm) 
 
 <!-- [Email](guojintao@smail.nju.edu.cn) | [Google Scholar](https://scholar.google.com/citations?user=K4lrdKc_YLUC) | [Github](https://github.com/lingeringlight) -->
@@ -27,7 +26,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 ## Publications
 
-<img align="left" src="./ALOFT.jpg" width = "20%" height = "20%"/>\
+<img align="left" src="./ALOFT.jpg" width = "30%" height = "30%"/>\
 **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.**  \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 \
