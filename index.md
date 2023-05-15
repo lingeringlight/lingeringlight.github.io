@@ -16,21 +16,24 @@ PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
 
 <br />
 
-<!-- ## <font face="Arial"><b>Biography</b></font> -->
-## Biography
+## <font face="Arial"><b>Biography</b></font>
+<!-- ## Biography -->
+- - -
 I am currently a first-year PhD student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/) and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). \
 I received my B.Eng. degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) in June 2020. In September 2020, I was admitted to study for a M.Eng. degree in Nanjing University.
 
 <br />
 
-<!-- ## <font face="Arial"><b>Research Interests</b></font> -->
-## Research Interests
+## <font face="Arial"><b>Research Interests</b></font>
+<!-- ## Research Interests -->
+- - -
 My current research focuses on Computer Vision and Domain Generalization.
 
 <br />
 
-<!-- ## <font face="Arial"><b>Publications</b></font> -->
-## Publications
+## <font face="Arial"><b>Publications</b></font>
+<!-- ## Publications -->
+- - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
 + **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.** (CVPR 2023) \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
@@ -39,14 +42,15 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 <br />
 
-<!-- ## <font face="Arial"><b>Services</b></font> -->
-## Services
+## <font face="Arial"><b>Services</b></font>
+<!-- ## Services -->
+- - -
 + Reviewer for TCSVT, JBHI, AAAI 2021, ICCV 2021、AAAI 2022, IJCAI2023.
 
 <br />
 
-<!-- ## <font face="Arial"><b>Correspondence</b></font> -->
-## Correspondence
+## <font face="Arial"><b>Correspondence</b></font>
+<!-- ## Correspondence -->
 - - -
 
 **Email**: guojintao@smail.nju.edu.cn \
