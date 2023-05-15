@@ -26,7 +26,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 ## Publications
 
-<img align="right" src="./ALOFT.jpg" width = "40%"/>
+<img align="right" src="./ALOFT.jpg" width = "35%"/>
 
 + **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.** (CVPR 2023) \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
