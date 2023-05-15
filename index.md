@@ -17,8 +17,7 @@ PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
 
 
 ## <font color="b"><b>Biography</b></font>
-I am currently a first-year PhD student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/) and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). 
-
+I am currently a first-year PhD student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/) and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm), fortunately supervised by [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm). \
 I received my B.Eng. degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) in June 2020. In September 2020, I was admitted to study for a M.Eng. degree in Nanjing University.
 
 <div style="line-height: 0px"> </div>
@@ -28,8 +27,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 ## Publications
 
-<img align="left" src="./ALOFT.jpg" width = "18%" height = "18%"/>
-
+<img align="left" src="./ALOFT.jpg" width = "20%" height = "20%"/>\
 **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.**  \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 \
@@ -41,6 +39,5 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 \
 
 ## Correspondence
 
-**Email**: guojintao@smail.nju.edu.cn
-
+**Email**: guojintao@smail.nju.edu.cn \
 **Address**: Guo Jintao, National Key Laboratory for Novel Software Technology, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China. (南京市栖霞区仙林大道163号, 南京大学仙林校区, 软件新技术国家重点实验室, 210023.)
