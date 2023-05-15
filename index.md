@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img align="left" src="./jintao.jpg" width = "30%"/>
+<img align="right" src="./jintao.jpg" width = "33%"/>
 
 <font face="kai" size=7><b>郭金涛</b></font>   <font size=6><b>Jintao Guo</b></font> 
 
