@@ -25,9 +25,7 @@ I received my B.Eng. degree from [University of Science and Technology of China]
 My current research focuses on Computer Vision and Domain Generalization.
 
 ## Publications
-
-<img align="right" src="./ALOFT.jpg" width = "32%"/>
-
+<!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
 + **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.** (CVPR 2023) \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
 <!-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 \ -->
