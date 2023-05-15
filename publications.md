@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+<!-- # Publications -->
 
 ## Conference Paper
 
