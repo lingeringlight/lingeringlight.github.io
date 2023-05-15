@@ -26,7 +26,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 ## Publications
 
-<img align="right" src="./ALOFT.jpg" width = "30%"/>
+<img align="right" src="./ALOFT.jpg" width = "40%"/>
 
 + **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.**  \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
@@ -40,4 +40,4 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 \
 ## Correspondence
 
 **Email**: guojintao@smail.nju.edu.cn \
-**Address**: Guo Jintao, National Key Laboratory for Novel Software Technology, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China. (南京市栖霞区仙林大道163号, 南京大学仙林校区, 软件新技术国家重点实验室, 210023.)
+**Address**: Guo Jintao, National Key Laboratory for Novel Software Technology, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China. 
