@@ -6,7 +6,8 @@ title: Publications
 
 <!-- # Publications -->
 
-## Conference Paper
+## <font face="Arial"><b>Conference Paper </b></font>
+
 
 <!-- <img align="right" src="../ALOFT.jpg" width = "40%"/> -->
 
