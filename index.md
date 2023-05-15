@@ -5,7 +5,7 @@ layout: page
 
 <!-- <font face="kai" size=7><b>郭金涛</b></font>    -->
 <font size=6><b>Jintao Guo</b></font> \
-<img align="right" src="./jintao_p2.jpg" width = "30%"/>\
+<img align="right" src="./jintao_p4.jpg" width = "30%"/>\
 PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
 [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) \
 [National Key Laboratory for Novel Software Technology](http://keysoftlab.nju.edu.cn/) \
