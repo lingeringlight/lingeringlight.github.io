@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-<img align="left" src="./ALOFT.jpg" width = "25%"/> 
+<img align="left" src="./ALOFT.jpg" width = "15%"/>
 
 **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.**  \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
