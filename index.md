@@ -45,7 +45,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 ## <font face="Arial"><b>Services</b></font>
 <!-- ## Services -->
 - - -
-+ Reviewer for TCSVT, JBHI, AAAI 2021, ICCV 2021、AAAI 2022, IJCAI2023.
++ Reviewer for TCSVT, JBHI, AAAI 2021, ICCV 2021, AAAI 2022, IJCAI2023.
 
 <br />
 
