@@ -37,7 +37,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
 + **DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization.** (ICCV 2023) \
 **Jintao Guo**, Lei Qi, Yinghuan Shi. \
-<!-- IEEE International Conference on Computer Vision (ICCV), 2023 \ -->
+IEEE International Conference on Computer Vision (ICCV), 2023 \
 [PDF](https://lingeringlight.github.io/) | [Code](https://lingeringlight.github.io/)
 
 + **ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization.** (CVPR 2023) \
