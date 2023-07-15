@@ -31,6 +31,14 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 <br />
 
+## <font face="Arial"><b>News</b></font>
+
++ **[2023-07]** One paper about **Domain Generalization (DG) Classification** is accepted by ICCV 2023.
+
++ **[2023-02]** One paper about **Domain Generalization (DG) Classification** is accepted by CVPR 2023.
+
+<br />
+
 ## <font face="Arial"><b>Publications</b></font>
 <!-- ## Publications -->
 - - -
