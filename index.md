@@ -24,12 +24,11 @@ I received my B.Eng. degree from [University of Science and Technology of China]
 
 <br />
 
+<!--
 ## <font face="Arial"><b>Research Interests</b></font>
-<!-- ## Research Interests -->
-- - -
 My current research focuses on Computer Vision and Domain Generalization.
-
 <br />
+-->
 
 ## <font face="Arial"><b>News</b></font>
 
