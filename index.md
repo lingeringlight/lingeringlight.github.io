@@ -32,6 +32,8 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 ## <font face="Arial"><b>News</b></font>
 
++ **[2023-09]** One paper about **DG Classification** is accepted by ACM TOMM.
+
 + **[2023-07]** One paper about **DG Classification** is accepted by ICCV 2023.
 
 + **[2023-02]** One paper about **DG Classification** is accepted by CVPR 2023.
@@ -42,10 +44,15 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- ## Publications -->
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
++ **[PLACE dropout: A Progressive Layer-wise and Channel-wise Dropout for Domain Generalization](https://lingeringlight.github.io/)** \
+**Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
+_ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**)_ \
+[Paper](https://lingeringlight.github.io/) | [Code]( https://github.com/lingeringlight/PLACEdropout/)
+
 + **[DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization](https://lingeringlight.github.io/)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi. \
 _IEEE International Conference on Computer Vision (**ICCV**)_, 2023 \
-[Paper](https://lingeringlight.github.io/) | [Code](https://lingeringlight.github.io/)｜[Zhihu](https://zhuanlan.zhihu.com/p/652198004)
+[Paper](https://arxiv.org/abs/2308.10285) | [Code](https://github.com/lingeringlight/DomainDrop/)｜[Zhihu](https://zhuanlan.zhihu.com/p/652198004)
 
 + **[ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization](https://arxiv.org/abs/2303.11674)** \
 **Jintao Guo**, Na Wang, Lei Qi, Yinghuan Shi. \
