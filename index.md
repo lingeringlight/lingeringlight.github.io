@@ -47,7 +47,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 + **[PLACE dropout: A Progressive Layer-wise and Channel-wise Dropout for Domain Generalization](https://lingeringlight.github.io/)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
 _ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**)_ \
-[Paper](https://lingeringlight.github.io/) | [Code]( https://github.com/lingeringlight/PLACEdropout/)
+[Paper](https://arxiv.org/abs/2112.03676) | [Code]( https://github.com/lingeringlight/PLACEdropout/)
 
 + **[DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization](https://lingeringlight.github.io/)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi. \
