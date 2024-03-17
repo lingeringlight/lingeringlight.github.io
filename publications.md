@@ -33,3 +33,8 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 _ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**)_ \
 [Paper](https://arxiv.org/abs/2112.03676) | [Code]( https://github.com/lingeringlight/PLACEdropout/)
 
++ **[Learning Generalizable Models via Disentangling Spurious and Enhancing Potential Correlations.](https://arxiv.org/abs/2401.05752)** \
+Na Wang, Lei Qi, **Jintao Guo**, Yinghuan Shi, Yang Gao. \
+_IEEE Transactions on Image Processing (**IEEE TIP**)_ \
+[Paper](https://arxiv.org/abs/2401.05752) | [Code](https://github.com/RubyHoho/DGeneralization/)
+
