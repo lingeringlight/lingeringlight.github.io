@@ -32,6 +32,8 @@ My current research focuses on Computer Vision and Domain Generalization.
 
 ## <font face="Arial"><b>News</b></font>
 
++ **[2024-02]** One paper about **DG Classification** is accepted by IEEE TIP.
+
 + **[2023-09]** One paper about **DG Classification** is accepted by ACM TOMM.
 
 + **[2023-07]** One paper about **DG Classification** is accepted by ICCV 2023.
@@ -44,10 +46,16 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- ## Publications -->
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
+
++ **[Learning Generalizable Models via Disentangling Spurious and Enhancing Potential Correlations.](https://arxiv.org/abs/2401.05752)** \
+Na Wang, Lei Qi, **Jintao Guo**, Yinghuan Shi, Yang Gao. \
+_IEEE Transactions on Image Processing (**IEEE TIP**)_ \
+[Paper](https://arxiv.org/abs/2401.05752) | [Code](https://github.com/RubyHoho/DGeneralization/)
+
 + **[PLACE dropout: A Progressive Layer-wise and Channel-wise Dropout for Domain Generalization](https://arxiv.org/abs/2112.03676)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
 _ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**)_ \
-[Paper](https://arxiv.org/abs/2112.03676) | [Code]( https://github.com/lingeringlight/PLACEdropout/)
+[Paper](https://arxiv.org/abs/2112.03676) | [Code](https://github.com/lingeringlight/PLACEdropout/)
 
 + **[DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization](https://lingeringlight.github.io/)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi. \
