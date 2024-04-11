@@ -28,6 +28,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 
 <!-- <img align="right" src="../ALOFT.jpg" width = "40%"/> -->
 
++ **[基于可泛化模型的复杂商务场景数据分析](https://lingeringlight.github.io/)** \
+史颖欢, **郭金涛**, 李泽昆, 祁磊, 高阳. \
+_《中国科学基金》_ \
+[Paper](https://lingeringlight.github.io/)
+
 + **[PLACE dropout: A Progressive Layer-wise and Channel-wise Dropout for Domain Generalization](https://arxiv.org/abs/2112.03676)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
 _ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**)_ \
