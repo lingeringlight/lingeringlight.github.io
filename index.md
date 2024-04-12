@@ -76,6 +76,16 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 
 <br />
 
+## <font face="Arial"><b>Honors</b></font>
+<!-- ## Honors -->
+- - -
++ Tencent Scholarship, Nanjing University, 2023.
++ Outstanding Graduate Student, Nanjing University, 2023.
++ Academic Scholarship for Master, Nanjing University, 2020, 2021.
++ Scholarship for Talented Students, University of Science and Technology of China, 2016, 2018, 2019.
+
+<br />
+
 ## <font face="Arial"><b>Services</b></font>
 <!-- ## Services -->
 - - -
