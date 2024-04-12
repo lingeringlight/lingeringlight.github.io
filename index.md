@@ -49,12 +49,6 @@ My current research focuses on Computer Vision and Domain Generalization.
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
 
-
-+ **[基于可泛化模型的复杂商务场景数据分析](https://lingeringlight.github.io/)** \
-史颖欢, **郭金涛**, 李泽昆, 祁磊, 高阳. \
-_《中国科学基金》_ \
-[Paper](https://lingeringlight.github.io/)
-
 + **[Learning Generalizable Models via Disentangling Spurious and Enhancing Potential Correlations.](https://arxiv.org/abs/2401.05752)** \
 Na Wang, Lei Qi, **Jintao Guo**, Yinghuan Shi, Yang Gao. \
 _IEEE Transactions on Image Processing (**IEEE TIP**)_ \
