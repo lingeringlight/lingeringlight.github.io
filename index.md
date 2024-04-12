@@ -89,13 +89,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 ## <font face="Arial"><b>Academic Services</b></font>
 <!-- ## Academic Services -->
 - - -
-Conference Reviewer
+**Conference Reviewer**
 + IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023-2024
 + IEEE International Conference on Computer Vision (**ICCV**), 2023
 + AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2023
 + International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
 
-Journal Reviewer
+**Journal Reviewer**
 + IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
 + IEEE Journal of Biomedical and Health Informatics (**JBHI**)
 
