@@ -31,6 +31,9 @@ My current research focuses on Computer Vision and Domain Generalization.
 -->
 
 ## <font face="Arial"><b>News</b></font>
++ **[2024-09]** One paper about **DG Classification** is accepted by NeurIPS 2024.
+
++ **[2024-09]** One paper about **DG Classification** is accepted by IEEE TIP.
 
 + **[2024-04]** One paper about **Survey for DG in Complex Business Scenarios** is accepted by 《中国科学基金》.
 
@@ -48,6 +51,16 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- ## Publications -->
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
+
++ **[START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation.](https://lingeringlight.github.io/)** \
+**Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
+_The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**)_, 2024 \
+[Paper](https://lingeringlight.github.io/) | [Code](https://lingeringlight.github.io/)
+
++ **[SETA: Semantic-Aware Edge-Guided Token Augmentation for Domain Generalization.](https://arxiv.org/abs/2403.11792)** \
+**Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
+_IEEE Transactions on Image Processing (**IEEE TIP**)_ \
+[Paper](https://arxiv.org/abs/2403.11792) | [Code](https://github.com/lingeringlight/SETA)
 
 + **[基于可泛化模型的复杂商务场景数据分析](https://lingeringlight.github.io/)** \
 史颖欢, **郭金涛**, 李泽昆, 祁磊, 高阳. \
@@ -92,8 +105,10 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 **Conference Reviewer**
 + IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023-2024
 + IEEE International Conference on Computer Vision (**ICCV**), 2023
-+ AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2023
++ AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2024
 + International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
++ International Conference on Learning Representations (**ICLR**), 2025
+
 
 **Journal Reviewer**
 + IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
