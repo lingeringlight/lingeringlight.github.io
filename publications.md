@@ -12,6 +12,11 @@ title: Publications
 
 <!-- <img align="right" src="../ALOFT.jpg" width = "40%"/> -->
 
++ **[START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation.](https://lingeringlight.github.io/)** \
+**Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
+_The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**)_, 2024 \
+[Paper](https://lingeringlight.github.io/) | [Code](https://lingeringlight.github.io/)
+
 + **[DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization](https://arxiv.org/abs/2308.10285)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi. \
 _IEEE International Conference on Computer Vision (**ICCV**)_, 2023 \
@@ -27,6 +32,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 - - -
 
 <!-- <img align="right" src="../ALOFT.jpg" width = "40%"/> -->
+
++ **[SETA: Semantic-Aware Edge-Guided Token Augmentation for Domain Generalization.](https://arxiv.org/abs/2403.11792)** \
+**Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
+_IEEE Transactions on Image Processing (**IEEE TIP**)_ \
+[Paper](https://arxiv.org/abs/2403.11792) | [Code](https://github.com/lingeringlight/SETA)
 
 + **[基于可泛化模型的复杂商务场景数据分析](https://lingeringlight.github.io/)** \
 史颖欢, **郭金涛**, 李泽昆, 祁磊, 高阳. \
