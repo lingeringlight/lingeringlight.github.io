@@ -31,6 +31,8 @@ My current research focuses on Computer Vision and Domain Generalization.
 -->
 
 ## <font face="Arial"><b>News</b></font>
++ **[2024-12]** One paper about **Few-Shot Classification** is accepted by AAAI 2025.
+
 + **[2024-09]** One paper about **DG Classification** is accepted by NeurIPS 2024.
 
 + **[2024-09]** One paper about **DG Classification** is accepted by IEEE TIP.
@@ -52,10 +54,15 @@ My current research focuses on Computer Vision and Domain Generalization.
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
 
-+ **[START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation.](https://lingeringlight.github.io/)** \
++ **[Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP.](https://arxiv.org/abs/2412.11375)** \
+Yayuan Li, **Jintao Guo**, Lei Qi, Wenbin Li, Yinghuan Shi. \
+_The Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 \
+[Paper](https://arxiv.org/abs/2412.11375) | [Code](https://github.com/lyymuwu/TIMO)
+
++ **[START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation.](https://arxiv.org/abs/2410.16020)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
 _The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**)_, 2024 \
-[Paper](https://lingeringlight.github.io/) | [Code](https://lingeringlight.github.io/)
+[Paper](https://arxiv.org/abs/2410.16020) | [Code](https://github.com/lingeringlight/START)
 
 + **[SETA: Semantic-Aware Edge-Guided Token Augmentation for Domain Generalization.](https://arxiv.org/abs/2403.11792)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
@@ -92,6 +99,8 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 ## <font face="Arial"><b>Honors</b></font>
 <!-- ## Honors -->
 - - -
++ **National Scholarship**, Nanjing University, 2024.
++ **Outstanding Graduate Model**, Nanjing University, 2024.
 + **Tencent Scholarship**, Nanjing University, 2023.
 + **Outstanding Graduate Student**, Nanjing University, 2023.
 + **Academic Scholarship for Master**, Nanjing University, 2020, 2021.
@@ -105,7 +114,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 **Conference Reviewer**
 + IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023-2024
 + IEEE International Conference on Computer Vision (**ICCV**), 2023
-+ AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2024
++ AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2025
 + International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
 + International Conference on Learning Representations (**ICLR**), 2025
 
