@@ -12,6 +12,11 @@ title: Publications
 
 <!-- <img align="right" src="../ALOFT.jpg" width = "40%"/> -->
 
++ **[Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP.](https://arxiv.org/abs/2412.11375)** \
+Yayuan Li, **Jintao Guo**, Lei Qi, Wenbin Li, Yinghuan Shi. \
+_The Thirty-Ninth Annual AAAI Conference on Artificial Intelligence (**AAAI**)_, 2025 \
+[Paper](https://arxiv.org/abs/2412.11375) | [Code](https://github.com/lyymuwu/TIMO)
+
 + **[START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation.](https://lingeringlight.github.io/)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
 _The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**)_, 2024 \
