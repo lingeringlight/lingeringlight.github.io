@@ -31,6 +31,12 @@ My current research focuses on Computer Vision and Domain Generalization.
 -->
 
 ## <font face="Arial"><b>News</b></font>
++ **[2025-11]** I am awarded the **First Doctoral Student Special Program of The Young Talents Support Project of China Association for Science and Technology**, Chinese Association for Artificial Intelligence.
+
++ **[2024-12]** I am awarded the **National Scholarship**, Nanjing University.
+
++ **[2024-12]** I am awarded the **Outstanding Graduate Model**, Nanjing University.
+
 + **[2024-12]** One paper about **Few-Shot Classification** is accepted by AAAI 2025.
 
 + **[2024-09]** One paper about **DG Classification** is accepted by NeurIPS 2024.
@@ -40,6 +46,10 @@ My current research focuses on Computer Vision and Domain Generalization.
 + **[2024-04]** One paper about **Survey for DG in Complex Business Scenarios** is accepted by 《中国科学基金》.
 
 + **[2024-02]** One paper about **DG Classification** is accepted by IEEE TIP.
+
++ **[2023-12]** I am awarded the **Tencent Scholarship**, Nanjing University.
+
++ **[2023-12]** I am awarded the **Outstanding Graduate Student**, Nanjing University.
 
 + **[2023-09]** One paper about **DG Classification** is accepted by ACM TOMM.
 
@@ -99,12 +109,14 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 ## <font face="Arial"><b>Honors</b></font>
 <!-- ## Honors -->
 - - -
++ **The First Doctoral Student Special Program of The Young Talents Support Project of China Association for Science and Technology**, Chinese Association for Artificial Intelligence, 2025.
 + **National Scholarship**, Nanjing University, 2024.
 + **Outstanding Graduate Model**, Nanjing University, 2024.
 + **Tencent Scholarship**, Nanjing University, 2023.
 + **Outstanding Graduate Student**, Nanjing University, 2023.
 + **Academic Scholarship for Master**, Nanjing University, 2020, 2021.
 + **Scholarship for Talented Students**, University of Science and Technology of China, 2016, 2018, 2019.
++ **Freshman Seminar Outstanding Paper Award*, University of Science and Technology of China, 2016.
 
 <br />
 
@@ -112,12 +124,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 <!-- ## Academic Services -->
 - - -
 **Conference Reviewer**
-+ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023-2024
-+ IEEE International Conference on Computer Vision (**ICCV**), 2023
-+ AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2025
-+ International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
++ International Conference on Machine Learning (**ICML**), 2025
++ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023-2025
++ Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 + International Conference on Learning Representations (**ICLR**), 2025
-
++ AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2025
++ IEEE International Conference on Computer Vision (**ICCV**), 2023
++ International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
 
 **Journal Reviewer**
 + IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
