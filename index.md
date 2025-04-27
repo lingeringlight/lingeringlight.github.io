@@ -31,6 +31,8 @@ My current research focuses on Computer Vision and Domain Generalization.
 -->
 
 ## <font face="Arial"><b>News</b></font>
++ **[2025-04]** One paper about **Generalizable Medical Image Segmentation** is accepted by AAAI 2025.
+
 + **[2025-11]** I am awarded the **First Doctoral Student Special Program of The Young Talents Support Project of China Association for Science and Technology**, Chinese Association for Artificial Intelligence.
 
 + **[2024-12]** I am awarded the **National Scholarship**, Nanjing University.
@@ -63,6 +65,11 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- ## Publications -->
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
+
++ **[Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation.](https://arxiv.org/abs/2504.17515)** \
+Zihan Cheng, **Jintao Guo**, Jian Zhang, Lei Qi, Luping Zhou, Yinghuan Shi, Yang Gao. \
+_IEEE Transactions on Medical Imaging (**IEEE TMI**)_, 2025 \
+[Paper](https://arxiv.org/abs/2504.17515) | [Code](https://github.com/orange-czh/Mamba-Sea)
 
 + **[Text and Image Are Mutually Beneficial: Enhancing Training-Free Few-Shot Classification with CLIP.](https://arxiv.org/abs/2412.11375)** \
 Yayuan Li, **Jintao Guo**, Lei Qi, Wenbin Li, Yinghuan Shi. \
@@ -129,7 +136,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2023 \
 + Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 + International Conference on Learning Representations (**ICLR**), 2025
 + AAAI Conference on Artificial Intelligence (**AAAI**), 2022-2025
-+ IEEE International Conference on Computer Vision (**ICCV**), 2023
++ IEEE International Conference on Computer Vision (**ICCV**), 2023, 2025
 + International Joint Conference on Artificial Intelligence (**IJCAI**), 2023
 
 **Journal Reviewer**
