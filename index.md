@@ -83,7 +83,7 @@ _The Thirty-eighth Annual Conference on Neural Information Processing Systems (*
 
 + **[SETA: Semantic-Aware Edge-Guided Token Augmentation for Domain Generalization.](https://arxiv.org/abs/2403.11792)** \
 **Jintao Guo**, Lei Qi, Yinghuan Shi, Yang Gao. \
-_IEEE Transactions on Image Processing (**IEEE TIP**)_ \
+_IEEE Transactions on Image Processing (**IEEE TIP**)_, 2024 \
 [Paper](https://arxiv.org/abs/2403.11792) | [Code](https://github.com/lingeringlight/SETA)
 
 + **[基于可泛化模型的复杂商务场景数据分析](https://lingeringlight.github.io/)** \
