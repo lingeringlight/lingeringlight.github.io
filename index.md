@@ -31,9 +31,9 @@ My current research focuses on Computer Vision and Domain Generalization.
 -->
 
 ## <font face="Arial"><b>News</b></font>
-+ **[2025-04]** One paper about **Generalizable Medical Image Segmentation** is accepted by AAAI 2025.
++ **[2025-04]** One paper about **Generalizable Medical Image Segmentation** is accepted by IEEE TMI.
 
-+ **[2025-11]** I am awarded the **First Doctoral Student Special Program of The Young Talents Support Project of China Association for Science and Technology**, Chinese Association for Artificial Intelligence.
++ **[2025-01]** I am awarded the **First Doctoral Student Special Program of The Young Talents Support Project of China Association for Science and Technology**, Chinese Association for Artificial Intelligence.
 
 + **[2024-12]** I am awarded the **National Scholarship**, Nanjing University.
 
