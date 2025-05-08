@@ -69,7 +69,7 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
 + **[Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2505.02567)** \
 Xinjie Zhang<sup>†</sup>, __Jintao Guo__<sup>†</sup>, Shanshan Zhao<sup>†</sup>, Minghao Fu, Lunhao Duan, Guo-Hua Wang, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang.\
-preprint, 2025 \
+_Preprint_, 2025 \
 [Paper](https://arxiv.org/abs/2505.02567) | [Github](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models)
 
 + **[Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation.](https://arxiv.org/abs/2504.17515)** \
