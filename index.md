@@ -31,6 +31,8 @@ My current research focuses on Computer Vision and Domain Generalization.
 -->
 
 ## <font face="Arial"><b>News</b></font>
++ **[2025-05]** Our paper “Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities” was released. [[Paper](https://arxiv.org/abs/2505.02567)].
+
 + **[2025-04]** One paper about **Generalizable Medical Image Segmentation** is accepted by IEEE TMI.
 
 + **[2025-01]** I am awarded the **First Doctoral Student Special Program of The Young Talents Support Project of China Association for Science and Technology**, Chinese Association for Artificial Intelligence.
@@ -65,6 +67,10 @@ My current research focuses on Computer Vision and Domain Generalization.
 <!-- ## Publications -->
 - - -
 <!-- <img align="right" src="./ALOFT.jpg" width = "32%"/> -->
++ **[Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2505.02567)** \
+Xinjie Zhang<sup>†</sup>, __Jintao Guo__<sup>†</sup>, Shanshan Zhao<sup>†</sup>, Minghao Fu, Lunhao Duan, Guo-Hua Wang, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang.\
+preprint, 2025 \
+[Paper](https://arxiv.org/abs/2505.02567) | [Github](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models)
 
 + **[Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation.](https://arxiv.org/abs/2504.17515)** \
 Zihan Cheng, **Jintao Guo**, Jian Zhang, Lei Qi, Luping Zhou, Yinghuan Shi, Yang Gao. \
@@ -87,7 +93,7 @@ _IEEE Transactions on Image Processing (**IEEE TIP**)_, 2024 \
 [Paper](https://arxiv.org/abs/2403.11792) | [Code](https://github.com/lingeringlight/SETA)
 
 + **[基于可泛化模型的复杂商务场景数据分析](https://lingeringlight.github.io/)** \
-史颖欢, **郭金涛**, 李泽昆, 祁磊, 高阳. \
+史颖欢<sup>†</sup>, **郭金涛**<sup>†</sup>, 李泽昆, 祁磊, 高阳. \
 _《中国科学基金》_ \
 [Paper](https://lingeringlight.github.io/)
 
